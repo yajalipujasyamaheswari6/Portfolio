@@ -44,7 +44,7 @@ Tools
 ## Contact
 Email: yajalipujasyamaheswari6@gmail.com
 
-LinkedIn: edin.com/in/yajali-pujasyamaheswari-bb702a3b5/
+LinkedIn: https://www.linkedin.com/in/yajali-pujasyamaheswari-bb702a3b5/
 
 GitHub: https://github.com/yajalipujasyamaheswari6
 
