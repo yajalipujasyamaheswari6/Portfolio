@@ -24,12 +24,15 @@ Tools
 ## Projects
 
 1. Endless Runner Game
+   
    A 2D game developed using Unity where the player avoids obstacles and collects items.
 
 2. Snake Game
+   
    Classic snake game with score tracking.
 
 3. Border Security  Alert System
+   
    An laser based project that detects border intrusions using sensors and alerts authorities.
 
 
