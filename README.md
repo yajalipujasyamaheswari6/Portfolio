@@ -37,13 +37,14 @@ Tools
 
 * Python Programming Course
 
-  ## Resume
+## Resume
 
-You can view my resume here:
-My Resume.pdf
+[Download My Resume](Resume.pdf)
 
 ## Contact
 Email: yajalipujasyamaheswari6@gmail.com
+
 LinkedIn: edin.com/in/yajali-pujasyamaheswari-bb702a3b5/
+
 GitHub: https://github.com/yajalipujasyamaheswari6
 
