@@ -14,7 +14,7 @@ A simple personal portfolio website developed using HTML and CSS.
 
 ## Screenshot
 
-![Portfolio Website](../../Images/portfolio-website.png)
+![Portfolio Website](../../Images/portfolio website.png)
 
 ## Status
 Learning Project
